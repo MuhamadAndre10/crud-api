@@ -5,7 +5,7 @@
 ## Geting started
 - Clone Repo
 ```
-git clone 
+git clone https://github.com/MuhamadAndre10/serkom.git
 ```
 - Install composer
 ```
